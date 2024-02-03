@@ -1,0 +1,102 @@
+#total{
+    /* border: 1px solid lightblue; */
+    width: 550px;
+    height: 390px;
+    margin: 30%;
+    border-radius: 15px;
+    box-shadow: lightblue 15px 15px 15px;
+}
+h5{
+    color:gray;
+    
+    
+}
+
+.ur{
+    border: 1px solid royalblue;
+    width: 250px;
+    height: 390px;
+    text-align: center;
+    position: relative;
+    left:1px ;
+    background: radial-gradient(mediumblue,royalblue);
+    border-radius: 15px;
+    color: lightcyan;
+
+}
+.grt{
+    border: 1px solid blue;
+    width: 120px;
+    margin: 60px;
+    border-radius: 50%;
+    background-color:darkblue;
+    color: white;
+
+}
+.box{
+    border: none;
+    width: 230px;
+    height: 30px;
+    position: relative;
+    justify-content: center;
+    left: 52%;
+    bottom: 390px;
+    border-radius: 10px;
+    
+}
+.icon{
+    position: relative;
+    top: 4px;
+}
+.sum{
+    
+    position: relative;
+    bottom: 390px;
+    left: 60%;
+}
+.li5{
+    
+   position: relative;
+   text-align: center;
+   border-radius: 25px;
+   background-color: navy; 
+   color: white; 
+   left: 55%;
+   bottom: 90%;
+
+}
+.li1{
+    background-color:lightpink;
+    color: orangered; 
+     
+    
+
+}
+.li2{
+    background-color:bisque;
+    color: orange;  
+
+}
+.li3{
+    background-color:aquamarine;
+    color: green;  
+
+}
+.li4{
+    background-color:lightskyblue;
+    color:darkblue;  
+
+}
+.mar{
+    color: black;
+    /* padding: 50px; */
+    position: relative;
+    left: 50px;
+}
+.mar2{
+    color: black;
+    position: relative;
+    left: 70px;
+}
+
+
